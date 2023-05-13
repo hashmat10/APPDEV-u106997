@@ -83,9 +83,7 @@ When the code is run, it will print "Hello, John".
 
 ## Built-in Functions
 
-Python has a variety of built-in functions that can be used to perform a wide range of tasks, such<br>
-
-as:
+Python has a variety of built-in functions that can be used to perform a wide range of tasks, such as:
 
 | Function | Description |
 | --- | --- |
@@ -104,17 +102,11 @@ Its simple, easy-to-read syntax makes it an ideal choice for beginners and exper
 
 large community of developers ensures that there is always support and resources available. With<br>
 
-a wide range of libraries available for different tasks, Python is a versatile choice for any<br>
+a wide range of libraries available for different tasks, Python is a versatile choice for any programmer.<br>
 
-programmer.<br>
+As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 
-As the famous computer scientist, [Guido van Rossum], the creator of [Python], said:[df1]
-
-> Python is an easy-to-use programming language for people who want to express concepts in<br>
-
-code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's<br>
-
-why I love it.
+> Python is an easy-to-use programming language for people who want to express concepts in code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's why I love it.
 
 ## Resources
 
