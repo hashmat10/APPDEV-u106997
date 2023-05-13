@@ -43,54 +43,85 @@ automating financial transactions, creating educational software, and building g
 5. **GIS:** Python is a widely used programming language in the field of Geographic Information<br>
 Systems (GIS), it is commonly used to automate repetitive tasks, perform complex analyses,<br>
 and create custom tools for working with GIS data.
-Getting Started with Python
-To get started with Python, you will need to download and install the Python software. You can
-download the latest version of Python from the official Python website (https://www.python.org
-/downloads). Once you have installed Python, you can start writing and running code.
-To write code in Python, you can use any text editor or integrated development environment (IDE).
-Some popular IDEs for Python include IDLE (the built-in Python IDE), PyCharm, and Visual Studio
-Code.
-Python Libraries
-Python has a wide range of libraries available that provide additional functionality for different
+
+## Getting Started with Python
+
+To get started with Python, you will need to download and install the Python software. You can<br>
+
+download the latest version of Python from the official Python website ([https://www.python.org/downloads](https://www.python.org/downloads)). Once you have installed Python, you can start writing and running code. To write code in Python, you can use any text editor or integrated development environment (IDE). Some popular IDEs for Python include IDLE (the built-in Python IDE), PyCharm, and Visual Studio Code.
+
+## Python Libraries
+
+Python has a wide range of libraries available that provide additional functionality for different<br>
+
 tasks. Some of the most popular libraries include:
-Library Description
-NumPy A library for working with arrays and matrices.
-Pandas A library for working with data frames and data analysis.
-Matplotlib A library for creating visualizations and plots.
-Scikit-learn A library for machine learning and data mining.
-Python Functions
-Python functions are blocks of code that can be reused multiple times. A function is defined using
-the def keyword, followed by the function name and a set of parentheses. The code inside the
-function is executed when the function is called.
+
+| Library | Description |
+| --- | --- |
+| **NumPy** | A library for working with arrays and matrices. |
+| **Pandas** | A library for working with data frames and data analysis. |
+| **Matplotli** | b A library for creating visualizations and plots. |
+| **Scikit-learn** | A library for machine learning and data mining. |
+
+## Python Functions
+
+Python functions are blocks of code that can be reused multiple times. A function is defined using<br>
+
+the def keyword, followed by the function name and a set of parentheses. The code inside the<br>
+
+function is executed when the function is called.<br>
+
 For example, the following code defines a function called greet that prints a message:
+
+```
 def greet(name):
-print(f"Hello, {name}")
-greet("John")
+<span class="hljs-built_in">print</span>(f<span class="hljs-string">"Hello, {name}"</span>)
+greet(<span class="hljs-string">"John"</span>)
+```
+
 When the code is run, it will print "Hello, John".
-Built-in Functions
-Python has a variety of built-in functions that can be used to perform a wide range of tasks, such
+
+## Built-in Functions
+
+Python has a variety of built-in functions that can be used to perform a wide range of tasks, such<br>
+
 as:
-Function Description
-print() The print function is used to display output to the console.
-len() The len function is used to find the length of a string or a list.
-str() The str function is used to convert a value to a string.
-int() The int function is used to convert a value to an integer.
-min() The min function is used to find the minimum value in a list or a string.
-max() The max function is used to find the maximum value in a list or a string.
-Conclusion
-Python is a powerful, high-level programming language that is widely used in many different fields.
-Its simple, easy-to-read syntax makes it an ideal choice for beginners and experts alike, and its
-large community of developers ensures that there is always support and resources available. With
-a wide range of libraries available for different tasks, Python is a versatile choice for any
-programmer.
-As the famous computer scientist, Guido van Rossum, the creator of Python, said:
-Python is an easy-to-use programming language for people who want to express concepts in
-code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's
+
+| Function | Description |
+| --- | --- |
+| `print()` | The print function is used to display output to the console. |
+| `len()` | The len function is used to find the length of a string or a list. |
+| `str()` | The str function is used to convert a value to a string. |
+| `int()` | The int function is used to convert a value to an integer. |
+| `min()` | The min function is used to find the minimum value in a list or a string. |
+| `max()` | The max function is used to find the maximum value in a list or a string. |
+
+## Conclusion
+
+Python is a powerful, high-level programming language that is widely used in many different fields.<br>
+
+Its simple, easy-to-read syntax makes it an ideal choice for beginners and experts alike, and its<br>
+
+large community of developers ensures that there is always support and resources available. With<br>
+
+a wide range of libraries available for different tasks, Python is a versatile choice for any<br>
+
+programmer.<br>
+
+As the famous computer scientist, [Guido van Rossum], the creator of [Python], said:[df1]
+
+> Python is an easy-to-use programming language for people who want to express concepts in<br>
+
+code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's<br>
+
 why I love it.
-Resources
+
+## Resources
+
 Here are some helpful resources for learning more about Python:
-• Python.org - The official website for Python, with a wealth of information and resources for
+
+* [Python.org](https://Python.org) - The official website for Python, with a wealth of information and resources for<br>
 learning the language.
-• Python for Data Science Handbook - A free online book that provides a comprehensive
-introduction
+* [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - A free online book that provides a comprehensive introduction
+
 Article content is generated using ChatGPT.
